@@ -1,5 +1,10 @@
 # Analise_credito
 
+## Este é um projeto de Análise de crédito
+
+### O projeto irá ser feito em cima da base de dados disponível.
+### as informações utilizadas estão explicadas na tabela à seguir: 
+
 | Variable Name            | Description                                         | Tipo  |
 | ------------------------ |:---------------------------------------------------:| -----:|
 | sexo| M = 'Masculino'; F = 'Feminino' |M/F|
